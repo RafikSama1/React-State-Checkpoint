@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.profile {
+  margin-top: 20px;
+}
+
+.profile img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+button {
+  margin-top: 20px;
+}
